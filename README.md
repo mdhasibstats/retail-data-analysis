@@ -89,6 +89,12 @@ Minimal cleaning was required. The only transformation applied was:
 - Weekend and May peaks → potential timing for promotions
 - Age has minimal influence on revenue, gender differences are minor
 
+## Visualization
+![Dashboard Preview](./visuals/sales_by_category.png) 
+![Dashboard Preview](./visuals/avg_spend_by_age.png)
+![Dashboard Preview](./visuals/monthly_sales.png)
+![Dashboard Preview](./visuals/weekly_sales_trend.png)
+
 ## Tools Used
 
 - Python
