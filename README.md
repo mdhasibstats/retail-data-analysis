@@ -95,9 +95,13 @@ Minimal cleaning was required. The only transformation applied was:
 ![Dashboard Preview](./visuals/monthly_sales.png)
 ![Dashboard Preview](./visuals/weekly_sales_trend.png)
 
+## Dashboard
+![Dashboard Preview](./dashboard/retail_sales_dashboard.png) 
+
 ## Tools Used
 
-- Python
+- **Python**
+- **Power BI**
 - Pandas
 - Matplotlib
 - Seaborn
