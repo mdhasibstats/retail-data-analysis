@@ -4,7 +4,7 @@
 
 This project analyzes a retail sales dataset to understand sales patterns, customer behavior, and product performance.
 
-The analysis was conducted using **Python** in Jupyter Notebook and dashboard is created using **Power BI**. 
+The analysis was conducted using **Python** in Jupyter Notebook, **Dashboard** was created using **Power BI** and a report was written using **MS Word**. 
 
 ## Dataset
 
